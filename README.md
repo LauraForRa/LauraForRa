@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @LauraForRa
 - 👀 I’m interested in Videogames, eSports and Anime/Manga
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning some coding
+- 💞️ I’m looking to collaborate on gaming stuff
 
 <!---
 LauraForRa/LauraForRa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
