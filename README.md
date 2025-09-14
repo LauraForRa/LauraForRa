@@ -1,5 +1,6 @@
---👋 Hola soy @LauraForRa
-soy Tecnica en Automatización y Robótica Industrial.
+👋 Hola soy @LauraForRa
+
+Soy Tecnica en Automatización y Robótica Industrial.
 
 Además con una especialización en Inteligencia Artificial y Big Data con Matrícula de Honor.
 
