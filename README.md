@@ -8,7 +8,7 @@ Actualmente, estoy ampliando mi formación en Business Intelligence y Automatiza
 
 He trabajado como programadora durante 1 año utilizando TIA Portal y también he colaborado mucho en la elaboración de documentación técnica para nuevos proyectos.
 
-A nivel técnico, manejo herramientas como Python, Java, HTML, CSS, GitHub, Power Automate y Power BI. Además, me esfuerzo por mantenerme al día con las tecnologías emergentes.
+A nivel técnico, manejo herramientas como Python, HTML, CSS, GitHub, Power Automate y Power BI. Además, me esfuerzo por mantenerme al día con las tecnologías emergentes, como LLMs o librerias de Python. 
 
 Me considero una persona con muchas ganas de aprender, comunicativa y muy implicada en los proyectos.
 
