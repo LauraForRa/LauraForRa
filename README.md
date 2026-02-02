@@ -4,7 +4,7 @@ Soy Tecnica en Automatización y Robótica Industrial.
 
 Además con una especialización en Inteligencia Artificial y Big Data con Matrícula de Honor.
 
-Actualmente, estoy ampliando mi formación en Business Intelligence y Automatización de Procesos, y me gustaría postularme a una posición en su empresa relacionada con programación o análisis de datos.
+Actualmente, estoy ampliando mi formación en Business Intelligence y Automatización de Procesos, y me gustaría postularme a una posición en una empresa relacionada con programación o análisis de datos.
 
 He trabajado como programadora durante 1 año utilizando TIA Portal y también he colaborado mucho en la elaboración de documentación técnica para nuevos proyectos.
 
